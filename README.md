@@ -18,3 +18,10 @@
 </p>
 
 ---
+
+### 🌎 Visitor Count
+<p align="center">
+   <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Profile%20views&color=ff69b4&style=flat" alt="Profile Views">
+</p>
+
+
