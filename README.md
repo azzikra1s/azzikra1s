@@ -14,7 +14,7 @@
 
 ### 🍃 Skills & Tools I Love
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,javascript,typescript,dart,java,php,golang,c,python,bootstrap,django,flask,laravel,net,angular,firebase,mysql,mongodb,sqlite,ruby&theme=light&perline=10" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,javascript,java,php,python,bootstrap,laravel,mysql,mongodb,sqlite&theme=light&perline=10" alt="My Skills">
 </p>
 
 ---
