@@ -1,7 +1,7 @@
 <h1 align="center" style="color: #2e8b57;">Hi there, I'm Az Zikra Ismunandar 👋</h1>
 
 <p align="center" style="color: #3a7d44;">
-  Software Engineer | Red Hat Certified System Administrator 
+  Software Engineer | Red Hat Certified System Administrator | Full Stack Web Developer
   <br>
 </p>
 
