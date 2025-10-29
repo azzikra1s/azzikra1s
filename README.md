@@ -52,7 +52,7 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=ffffff&ring=8A2BE2&fire=blueviolet&currStreakLabel=333333&sideNums=8A2BE2&sideLabels=blueviolet" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=ffffff&ring=2e8b57&fire=blueviolet&currStreakLabel=333333" alt="GitHub Streak">
 </p>
 
 ---
