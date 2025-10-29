@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
+</div>
+
+<br>
+
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </div>
@@ -9,12 +15,6 @@
 <p align="center">
   <strong>Software Engineer | Full Stack Web Developer</strong>
 </p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
-</div>
-
-<br>
 
 ## 📬 Connect With Me
 
