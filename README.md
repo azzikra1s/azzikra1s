@@ -23,4 +23,25 @@
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azzikra1s&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2e8b57&icon_color=blueviolet&text_color=333333" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzikra1s&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2e8b57&text_color=333333" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=ffffff&ring=2e8b57&fire=blueviolet&currStreakLabel=333333" alt="GitHub Streak">
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azzikra1s&theme=flat&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
+
+---
+
 
