@@ -10,19 +10,15 @@
   <strong>Software Engineer | Full Stack Web Developer</strong>
 </p>
 
-## 📬 Connect With Me
-
-<div align="left">
+<div align="center">
   <a href="mailto:azzikra.ismunandar08@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-azzikra.ismunandar08%40gmail.com-D14836?style=for-the-badge&logo=gmail&labelColor=white&color=D14836" alt="Email" width="400">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <br><br>
-  <a href="https://instagram.com/azzikra1s">
-    <img src="https://img.shields.io/badge/instagram-%40azzikra1s-E4405F?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=white&color=E4405F" alt="Instagram" width="400">
+  <a href="https://www.instagram.com/azzikra1s">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <br><br>
-  <a href="https://linkedin.com/in/azzikra1s">
-    <img src="https://img.shields.io/badge/linkedin-az%20zikra%20ismunandar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=white&color=0A66C2" alt="LinkedIn" width="400">
+  <a href="https://www.linkedin.com/in/azzikra1s">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
 
@@ -31,6 +27,7 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
 </div>
+
 ## 🍃 Skills & Tools I Love
 
 <p align="center">
@@ -42,7 +39,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true" alt="GitHub Streak" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=ffffff&ring=2e8b57&fire=blueviolet&currStreakLabel=333333" alt="GitHub Streak" width="600">
 </div>
 
 <br>
