@@ -52,11 +52,6 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azzikra1s&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=8A2BE2&icon_color=blueviolet&text_color=333333" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzikra1s&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=8A2BE2&text_color=333333" alt="Top Languages" height="165">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=ffffff&ring=8A2BE2&fire=blueviolet&currStreakLabel=333333&sideNums=8A2BE2&sideLabels=blueviolet" alt="GitHub Streak">
 </p>
 
