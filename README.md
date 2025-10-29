@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
-### 💭 Random Dev Quote
+---
+
+### 💭 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
