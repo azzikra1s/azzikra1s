@@ -42,14 +42,16 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=000000&ring=2e8b57&fire=blueviolet&currStreakLabel=333333" alt="GitHub Streak" width="600">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=dark&hide_border=true" alt="GitHub Streak" width="600">
 </div>
 
 <br>
 
 ## 🏆 GitHub Trophies
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=azzikra1s&theme=aura&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</p>
 
 <br>
 
