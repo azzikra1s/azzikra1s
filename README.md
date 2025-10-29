@@ -3,11 +3,13 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Az+Zikra+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Welcome!;Happy+Coding!" alt="Typing SVG" />
 </h1>
 
+<h1 align="center">Hi there, I'm Az Zikra Ismunandar 👋</h1>
+
 <p align="center">
-  <strong>Software Engineer | Full Stack Web Developer</strong>
+  <strong>Contact Me</strong>
 </p>
 
 <div align="center">
