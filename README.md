@@ -48,7 +48,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azzikra1s&theme=modern-lilac2)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=ffffff&ring=2e8b57&fire=blueviolet&currStreakLabel=333333" alt="GitHub Streak" width="600">
 </div>
 
 <br>
