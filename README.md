@@ -1,4 +1,4 @@
-<div align="left">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </div>
 
