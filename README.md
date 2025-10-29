@@ -1,33 +1,48 @@
-<img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+</div>
 
-<h1 align="center" style="color: #2e8b57;">Hi there, I'm Az Zikra Ismunandar 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Az+Zikra+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
+</h1>
 
-<p align="center" style="color: #3a7d44;">
-  Software Engineer | Full Stack Web Developer
-  <br>
+<p align="center">
+  <strong>Software Engineer | Full Stack Web Developer</strong>
 </p>
+
+<p align="center">
+  <a href="https://github.com/azzikra1s">
+    <img src="https://img.shields.io/github/followers/azzikra1s?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/azzikra1s">
+    <img src="https://img.shields.io/github/stars/azzikra1s?label=Stars&style=for-the-badge&color=8A2BE2" alt="GitHub Stars">
+  </a>
+</p>
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
 </p>
+
 ---
 
 ### 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:azzikra.ismunandar08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.instagram.com/azzikra1s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/azzikra1s">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-7B68EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
 ### 🍃 Skills & Tools I Love
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,php,python,java,bootstrap,figma,tailwind,laravel,nodejs,vue,mysql,mongodb,sqlite,git&theme=light&perline=8" alt="My Skills">
 </p>
@@ -37,7 +52,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=ffffff&ring=2e8b57&fire=blueviolet&currStreakLabel=333333" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=azzikra1s&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=8A2BE2&icon_color=blueviolet&text_color=333333" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azzikra1s&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=8A2BE2&text_color=333333" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azzikra1s&theme=default&hide_border=true&background=ffffff&ring=8A2BE2&fire=blueviolet&currStreakLabel=333333&sideNums=8A2BE2&sideLabels=blueviolet" alt="GitHub Streak">
 </p>
 
 ---
@@ -49,6 +69,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer">
+</p>
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/azzikra1s">azzikra1s</a> | Made with ❤️ and ☕</i>
