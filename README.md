@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
-</div>
+<img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Az+Zikra+%F0%9F%91%8B;Software+Engineer;Full+Stack+Developer" alt="Typing SVG" />
@@ -11,15 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/azzikra1s">
-    <img src="https://img.shields.io/github/followers/azzikra1s?label=Followers&style=for-the-badge&color=blueviolet" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/azzikra1s">
-    <img src="https://img.shields.io/github/stars/azzikra1s?label=Stars&style=for-the-badge&color=8A2BE2" alt="GitHub Stars">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
 </p>
 
@@ -27,17 +16,17 @@
 
 ### 📬 Connect With Me
 
-<p align="center">
+
   <a href="mailto:azzikra.ismunandar08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://www.instagram.com/azzikra1s">
-    <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/azzikra1s">
-    <img src="https://img.shields.io/badge/GitHub-7B68EE?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-</p>
+
 
 ---
 
