@@ -21,15 +21,15 @@
 ### 📬 Connect With Me
 
 <a href="mailto:azzikra.ismunandar08@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-azzikra.ismunandar08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/gmail-azzikra.ismunandar08@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white&logoColor=white&labelColor=D14836" alt="Email">
 </a>
 <br>
 <a href="https://www.instagram.com/azzikra1s">
-  <img src="https://img.shields.io/badge/Instagram-@azzikra1s-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <img src="https://img.shields.io/badge/instagram-@azzikra1s-white?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram">
 </a>
 <br>
 <a href="https://www.linkedin.com/in/azzikra1s">
-  <img src="https://img.shields.io/badge/LinkedIn-Az%20Zikra%20Ismunandar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/linkedin-az%20zikra%20ismunandar-white?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
 </a>
 
 ---
