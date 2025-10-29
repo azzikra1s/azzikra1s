@@ -47,9 +47,9 @@
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azzikra1s&theme=aura&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
+<div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azzikra1s&theme=modern-lilac2)](https://git.io/streak-stats)
+</div>
 
 <br>
 
