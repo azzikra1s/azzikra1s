@@ -42,7 +42,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzikra1s&theme=tokyonight" width="850" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzikra1s&theme=tokyonight" width="700" />
 </div>
 
 <br>
