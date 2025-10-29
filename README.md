@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </div>
 
 <h2 align="center">
