@@ -21,7 +21,7 @@
 ### 📬 Connect With Me
 
 <a href="mailto:azzikra.ismunandar08@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-azzikra.ismunandar08%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=white&color=D14836" alt="Email" width="400">
+  <img src="https://img.shields.io/badge/gmail-azzikra.ismunandar08%40gmail.com-D14836?style=for-the-badge&logo=gmail&labelColor=white&color=D14836" alt="Email" width="400">
 </a>
 <br>
 <a href="https://instagram.com/azzikra1s">
