@@ -26,7 +26,7 @@
 
 <br>
 
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=8A2BE2" alt="Random Dev Quote"> </div>
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=8A2BE2" alt="Random Dev Quote" width="600"> </div>
 
 ## 🍃 Skills & Tools I Love
 
