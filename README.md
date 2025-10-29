@@ -27,7 +27,7 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
 </div>
 
 ## 🍃 Skills & Tools I Love
@@ -41,7 +41,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzikra1s&theme=tokyonight" width="600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzikra1s&theme=tokyonight" width="850" />
 </div>
 
 <br>
