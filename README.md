@@ -27,9 +27,8 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=8A2BE2&quote=CODE+IS+LIKE+HUMOR.+WHEN+YOU+HAVE+TO+EXPLAIN+IT,+IT’S+BAD.&author=CORY+HOUSE" alt="Dev Quote" width="600">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=8A2BE2" alt="Random Dev Quote" width="850">
 </div>
-
 
 ## 🍃 Skills & Tools I Love
 
