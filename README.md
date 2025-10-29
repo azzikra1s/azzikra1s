@@ -16,17 +16,21 @@
 
 ### 📬 Connect With Me
 
-
-  <a href="mailto:azzikra.ismunandar08@gmail.com">
-    <img src="https://img.shields.io/badge/Email?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.instagram.com/azzikra1s">
-    <img src="https://img.shields.io/badge/Instagram?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://github.com/azzikra1s">
-    <img src="https://img.shields.io/badge/GitHub?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-
+<a href="mailto:azzikra.ismunandar08@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+<br>
+<a href="https://www.instagram.com/azzikra1s">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<br>
+<a href="https://www.linkedin.com/in/azzikra1s">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<br>
+<a href="https://github.com/azzikra1s">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 ---
 
