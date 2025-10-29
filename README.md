@@ -14,7 +14,7 @@
 
 <div align="left">
   <a href="mailto:azzikra.ismunandar08@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-azzikra.ismunandar08%40gmail.com-D14836?style=for-the-badge&logo=gmail&labelColor=white&color=D14836" alt="Email" width="400">
+    <img src="https://img.shields.io/badge/gmail-azzikra.ismunandar08%40gmail.com-D14836?style=for-the-badge&logo=gmail&labelColor=dark&color=D14836" alt="Email" width="400">
   </a>
   <br><br>
   <a href="https://instagram.com/azzikra1s">
@@ -29,7 +29,7 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </div>
 ## 🍃 Skills & Tools I Love
 
