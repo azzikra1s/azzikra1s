@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Welcome!;Happy+Coding!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=WELCOME!;DO+WHAT+YOU+LOVE!;CODE+YOUR+DREAMS!" alt="Typing SVG" />
 </h1>
 
 <h1 align="center">Hi there, I'm Az Zikra Ismunandar 👋</h1>
