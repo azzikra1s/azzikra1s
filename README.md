@@ -5,9 +5,10 @@
 <p align="center" style="color: #3a7d44;">
   Software Engineer | Red Hat Certified System Administrator | Full Stack Web Developer
   <br>
+</p>
+<p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote">
 </p>
-
 ---
 
 ### 🌱 Contact Me
