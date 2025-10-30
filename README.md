@@ -70,6 +70,6 @@
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/azzikra1s">azzikra1s</a> | Made with ❤️ and ☕</i>
+  <i>⭐️ From <a href="https://instagram.com/azzikra1s">@azzikra1s</a> | Made with ❤️ and ☕</i>
 </p>
 
