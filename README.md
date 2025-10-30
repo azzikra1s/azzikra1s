@@ -9,7 +9,7 @@
 <h1 align="center">Hi there, I'm Az Zikra Ismunandar 👋</h1>
 
 <p align="center">
-  <em>Web Developer • Passionate About Clean Code & Creative Design</em>
+  <em>Web Developer • Passionate About Clean Code & Clean Design</em>
 </p>
 
 <h6 align="center">
