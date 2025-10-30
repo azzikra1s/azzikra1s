@@ -6,9 +6,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=HELLO+WORLD!+🌍;WELCOME+TO+MY+CODING+UNIVERSE!+🚀;EAT,+SLEEP,+CODE,+REPEAT!+💻;DO+WHAT+YOU+LOVE,+LOVE+WHAT+YOU+CODE!+💜" alt="Typing SVG" />
 </h2>
 
-<h1 align="center">Hi there, I'm Az Zikra Ismunandar 👋 <span align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=(•_•)+++(+•_•)+++(⌐■_■);(╯°□°)╯+🐛+++(•_•)+++(⌐■_■);(ಠ_ಠ)+++(•_•)+++(×_×)" alt="Typing SVG" />
-</span></h1>
+<h1 align="center">
+  Hi there, I'm Az Zikra Ismunandar 👋 
+  <span align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=(•_•)+++(+•_•)+++(⌐■_■);(╯°□°)╯+🐛+++(•_•)+++(⌐■_■);(•_•)+++(ಠ_ಠ)+++(×_×)" alt="Typing SVG" />
+  </span>
+</h1>
 
 <p align="center">
   <em>Web Developer • Passionate About Clean Code & Clean Design</em>
