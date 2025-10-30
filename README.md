@@ -6,7 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=HELLO+WORLD!+🌍;WELCOME+TO+MY+CODING+UNIVERSE!+🚀;EAT,+SLEEP,+CODE,+REPEAT!+💻;DO+WHAT+YOU+LOVE,+LOVE+WHAT+YOU+CODE!+💜" alt="Typing SVG" />
 </h2>
 
-<h1 align="center">Hi there, I'm Az Zikra Ismunandar 👋</h1>
+<h1 align="center">Hi there, I'm Az Zikra Ismunandar 👋 <span align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=(•_•)+++(+•_•)+++(⌐■_■);(╯°□°)╯+🐛+++(•_•)+++(⌐■_■);(ಠ_ಠ)+++(•_•)+++(×_×)" alt="Typing SVG" />
+</span></h1>
 
 <p align="center">
   <em>Web Developer • Passionate About Clean Code & Clean Design</em>
@@ -57,7 +59,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=azzikra1s&theme=aura&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
 </p>
-
+  
 <br>
 
 <p align="center">
@@ -67,3 +69,4 @@
 <p align="center">
   <i>⭐️ From <a href="https://github.com/azzikra1s">azzikra1s</a> | Made with ❤️ and ☕</i>
 </p>
+
