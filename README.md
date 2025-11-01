@@ -53,6 +53,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-Exploring-8A2BE2?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Exploring-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-Planning%20to%20Learn-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Java%20Spring%20Boot-Exploring-8A2BE2?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" />
