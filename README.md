@@ -69,6 +69,7 @@
   <em><i>Currently focusing on PostgreSQL and exploring modern backend & deployment technologies.<i></em>
 </p>
 
+<br>
 
 ## 📊 GitHub Statistics
 
