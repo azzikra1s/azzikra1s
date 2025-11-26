@@ -66,7 +66,7 @@
 <br>
 
 <p align="center">
-  <em><i>Currently focusing on PostgreSQL and exploring modern backend & deployment technologies.<i></em>
+  <em><i>Currently focusing on Java Spring Boot and exploring modern backend & deployment technologies.<i></em>
 </p>
 
 <br>
