@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-Upcoming-8A2BE2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%20DB-Upcoming-8A2BE2?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Upcoming-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-Upcoming-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
