@@ -14,7 +14,7 @@
 </h1>
 
 <p align="center">
-  <em>Web Developer • Passionate About Clean Code & Clean Design</em>
+  <em>Full Stack Developer • Passionate About Clean Code & Clean Design</em>
 </p>
 
 <h6 align="center">
