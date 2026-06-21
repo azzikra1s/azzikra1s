@@ -21,7 +21,7 @@
 
 <h6 align="center">
   <!-- <strong>Contact Me</strong> -->
-  <strong><img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:000000&height=20&text=Contact%20Me&fontSize=14&fontColor=aaaaaa&animation=twinkling" alt="Contact Me" /></strong>
+  <strong><img src="https://capsule-render.vercel.app/api?type=transparent&color=0:000000,100:000000&height=20&text=Let's%20Connect&fontSize=14&fontColor=aaaaaa&animation=twinkling" alt="Contact" /></strong>
 </h6>
 
 <div align="center">
