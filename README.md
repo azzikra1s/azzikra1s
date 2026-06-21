@@ -4,12 +4,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=AZ%20ZIKRA%20ISMUNANDAR&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" width="100%" />
 
-<h2 align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=HELLO+WORLD!+🌍;WELCOME+TO+MY+CODING+UNIVERSE!+🚀;EAT,+SLEEP,+CODE,+REPEAT!+💻;DO+WHAT+YOU+LOVE,+LOVE+WHAT+YOU+CODE!+💜" alt="Typing SVG" />
   <span align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=(•_•)+++(+•_•)+++(⌐■_■);(╯°□°)╯+🐛+++(•_•)+++(⌐■_■);(ಠ_ಠ)+++(◉_◉)+++(×_×)" alt="Typing SVG" />
   </span>
-</h2>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=30&section=header" width="100%" />
+</p>
 
 <p align="center">
   <em>Full Stack Developer • Passionate About Clean Code & Clean Design</em>
@@ -39,7 +43,10 @@
 </div>
 
 
-## 🍃 Skills & Tools I Love
+<h3>🍃 Skills & Tools I Love</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=30&section=header" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,figma,tailwind,vue,php,java,python,laravel,nodejs,mysql,postgres,sqlite,mongodb,git&theme=light&perline=8" alt="My Skills">
@@ -47,17 +54,20 @@
 
 <br>
 
-## 🎯 Learning Tasks
+<h3>🎯 Learning Tasks</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=30&section=header" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Angular-Exploring-8A2BE2?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Mandatory-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-Planning%20to%20Learn-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20Spring%20Boot-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-Upcoming-8A2BE2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-Upcoming-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-Exploring-8A2BE2?style=for-the-badge&logo=angular&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/TypeScript-Mandatory-8A2BE2?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/.NET-Planning%20to%20Learn-8A2BE2?style=for-the-badge&logo=dotnet&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Java%20Spring%20Boot-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/SQL%20Server-Upcoming-8A2BE2?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Docker-Learning%20in%20Progress-8A2BE2?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Kubernetes-Upcoming-8A2BE2?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a2e" />
 </p>
 
 <br>
@@ -68,7 +78,10 @@
 
 <br>
 
-## 📊 GitHub Statistics
+<h3>📊 GitHub Statistics</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=30&section=header" width="100%" />
+</p>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azzikra1s&theme=tokyonight" width="700" />
