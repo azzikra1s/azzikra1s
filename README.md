@@ -76,16 +76,8 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=azzikra1s&theme=aura&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</p>
-  
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling" width="100%" alt="Footer">
 </p>
 
 <p align="center">
