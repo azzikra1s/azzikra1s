@@ -26,15 +26,21 @@
 
 <div align="center">
   <a href="mailto:azzikra.ismunandar08@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.instagram.com/azzikra1s">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Gmail-8C2F23?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" />
   </a>
   <a href="https://www.linkedin.com/in/azzikra1s">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" />
+  </a>
+  <a href="https://azzikra1s.github.io">
+    <img src="https://img.shields.io/badge/-Portfolio-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white&logoWidth=20" />
   </a>
 </div>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💭_Code_is_like_humor.__When_you_have_to_explain_it,_it's_bad.-1a1a2e?style=for-the-badge&labelColor=8A2BE2" />
+</p>
 
 <br>
 
@@ -42,6 +48,21 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=8A2BE2" alt="Random Dev Quote" width="500">
 </div>
 
+<h3 align="center">🐾 My Lifecycle</h3>
+
+<table align="center">
+  <tr>
+    <td width="33%" align="center">
+      <img src="https://cataas.com/cat/cute?width=320&filter=mono&brightness=-10" alt="Vibing Cat 1" style="border-radius:12px;border:2px solid #8A2BE2;" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://cataas.com/cat/orange?width=320&filter=mono&brightness=-10" alt="Vibing Cat 2" style="border-radius:12px;border:2px solid #8A2BE2;" />
+    </td>
+    <td width="33%" align="center">
+      <img src="https://cataas.com/cat/small?width=320&filter=mono&brightness=-10" alt="Vibing Cat 3" style="border-radius:12px;border:2px solid #8A2BE2;" />
+    </td>
+  </tr>
+</table>
 
 <h3>🍃 Skills & Tools I Love</h3>
 <p align="center">
