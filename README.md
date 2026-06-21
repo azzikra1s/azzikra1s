@@ -1,6 +1,6 @@
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=VISITORS&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=AZ%20ZIKRA%20ISMUNANDAR&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+</p>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=HELLO+WORLD!+🌍;WELCOME+TO+MY+CODING+UNIVERSE!+🚀;EAT,+SLEEP,+CODE,+REPEAT!+💻;DO+WHAT+YOU+LOVE,+LOVE+WHAT+YOU+CODE!+💜" alt="Typing SVG" />
@@ -9,9 +9,9 @@
   </span>
 </h2>
 
-<h1 align="center">
-  Hi there, I'm Az Zikra Ismunandar 👋 
-</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=PROFILE+VIEWS&color=8A2BE2&style=flat-square" alt="Profile Views" />
+</p>
 
 <p align="center">
   <em>Full Stack Developer • Passionate About Clean Code & Clean Design</em>
