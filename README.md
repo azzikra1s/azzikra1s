@@ -47,8 +47,6 @@
 <div align="center">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=PixelifySans&quoteType=random&borderColor=purple" alt="Random Dev Quote" width="500">
 </div>
-
-<br>
   
 <div align="center">
   <h3>🐾 ~/daily_dose_cat.sh</h3>
