@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=VISITORS&color=8A2BE2&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=VISITORS&color=8A2BE2&style=flat-square&labelColor=1a1a2e" alt="Profile Views" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=AZ%20ZIKRA%20ISMUNANDAR&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" width="100%" />
