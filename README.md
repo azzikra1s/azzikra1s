@@ -50,7 +50,7 @@
   <h3>🐾 ~/daily_dose_cat.sh</h3>
   
   ```bash
-  # Executing cron job: fetched 3 new monochrome cat asset. [OK]
+  # Executing cron job: fetched 3 new daily dose cat asset. [OK]
   ```
 
 </div>
