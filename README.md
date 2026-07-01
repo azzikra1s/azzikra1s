@@ -72,6 +72,8 @@
   </tr>
 </table>
 
+<br>
+
 <h3>🍃 Skills & Tools I Love</h3>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=30&section=header" width="100%" />
