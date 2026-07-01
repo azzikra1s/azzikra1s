@@ -48,7 +48,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=8A2BE2" alt="Random Dev Quote" width="500">
 </div>
 
-<h3 align="center">🐾 My Lifecycle</h3>
+<h3 align="center">🐾 ~/daily_dose_cat.sh</h3>
 
 <table align="center">
   <tr>
