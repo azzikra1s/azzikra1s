@@ -49,7 +49,6 @@
 </div>
   
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=30&section=header" width="100%" />
   <h3>🐾 ~/daily_dose_cat.sh</h3>
   
   ```bash
