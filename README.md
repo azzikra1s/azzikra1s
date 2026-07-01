@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=VISITORS&color=8A2BE2&style=flat-square&labelColor=1a1a2e" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=VIEWS&color=7C3AED&style=flat-square" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=AZ%20ZIKRA%20ISMUNANDAR&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" width="100%" />
@@ -48,7 +48,16 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=8A2BE2" alt="Random Dev Quote" width="500">
 </div>
 
-<h3 align="center">🐾 ~/daily_dose_cat.sh</h3>
+<div align="center">
+
+  <h3>🐾 ~/daily_dose_cat.sh</h3>
+  
+  ```bash
+  # Executing cron job: fetched 3 new monochrome cat asset. [OK]
+  ```
+
+</div>
+
 
 <table align="center">
   <tr>
