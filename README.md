@@ -42,7 +42,9 @@
   <img src="https://img.shields.io/badge/💭_Code_is_like_humor.__When_you_have_to_explain_it,_it's_bad.-1a1a2e?style=for-the-badge&labelColor=8A2BE2" />
 </p>
 
-<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=PixelifySans&quoteType=random&quoteCategory=fun&borderColor=purple" alt="Random Dev Quote" width="550" style="display: block; margin: 0 auto;">
+<div align="center">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=PixelifySans&quoteType=random&quoteCategory=fun&borderColor=purple" alt="Random Dev Quote" width="550" style="margin: auto;">
+</div>
   
 <div align="center">
   <h3>🐾 ~/daily_dose_cat.sh</h3>
