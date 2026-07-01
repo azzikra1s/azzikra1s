@@ -47,9 +47,9 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&borderColor=8A2BE2" alt="Random Dev Quote" width="500">
 </div>
-
+  
 <div align="center">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=30&section=header" width="100%" />
   <h3>🐾 ~/daily_dose_cat.sh</h3>
   
   ```bash
