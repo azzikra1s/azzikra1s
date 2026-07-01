@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=azzikra1s&label=Views&color=8A2BE2&style=flat-square" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=just%20another%20dev&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=180&section=header&text=SAYA%20AKAN%20LAWAN!%20✊&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" width="100%" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=HELLO+WORLD!+🌍;WELCOME+TO+MY+CODING+UNIVERSE!+🚀;EAT,+SLEEP,+CODE,+REPEAT!+💻;DO+WHAT+YOU+LOVE,+LOVE+WHAT+YOU+CODE!+💜" alt="Typing SVG" />
