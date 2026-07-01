@@ -43,7 +43,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=PixelifySans&quoteType=random&borderColor=purple" alt="Random Dev Quote" width="600">
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=churchill&font=PixelifySans&quoteType=random&borderColor=purple" alt="Random Dev Quote" width="575">
 </div>
   
 <div align="center">
